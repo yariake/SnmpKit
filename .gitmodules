@@ -1,0 +1,6 @@
+[submodule "Submodules/openssl"]
+	path = Submodules/openssl
+	url = https://github.com/tetoatom/openssl.git
+[submodule "Submodules/net-snmp"]
+	path = Submodules/net-snmp
+	url = https://github.com/tetoatom/net-snmp.git
